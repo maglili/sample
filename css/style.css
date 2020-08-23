@@ -45,3 +45,7 @@ a:hover {
 .certi {
   width: 200px;
 }
+
+iframe {
+  width: "300px";
+}
